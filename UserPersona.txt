@@ -1,0 +1,31 @@
+-------------The Apple Quality Checker App---------------
+
+The apple qulity checker app tells the user whether the apple(s) in the image
+are fresh or rotten.
+
+This app caters to any user who is in the need for figuring out if the apple is
+fresh or rotten.
+Some use cases can be:
+1) A supermarket customer selecting apples
+2) A fruit seller discarding rotten apples.
+
+As a result, the user can be of any gender, age, occupation etc. Essentailly they should
+have a need to find out if their apple is fresh or rotten
+
+Wihtout the app, the user in need can struggle in the two following ways:
+1) Can't differentiate between fresh and rotten apples
+2) Takes too long to decide quality of each apple manually
+
+Hence, this app eases the users pain in the following ways:
+1) To help someone who can't differentiate between fresh and rotten apples.
+2) To help someone speed up the detection process as this app can work with
+and return quality results of several apples in an image instantly. 
+Both these processes are done using an AI object detector trained to identify
+fresh and rotten apples.
+
+
+
+
+
+
+ 

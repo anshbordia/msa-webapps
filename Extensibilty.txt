@@ -1,0 +1,11 @@
+The app can be extended in several ways:
+1) Add more fruits eg. oranges, bananas, watermelon etc.
+2) Add vegetables as well
+3) Send image of wrongly classified image (when the user gives a feedback for the predcition) to the
+the app developer (me in this case!) and improve the model using those images (augment the dataset)
+4) In an image of multiple fruits/vegetables display the count of each category.
+5) Given that some fruits occur in only specific region, give the users in that region added categories
+of special fruits in their region.
+6) Predict on a scale how badly rotten a fruit is.
+
+Adding more fruits and vegetables will cater to people interested in other fruits and increase the number of users.
