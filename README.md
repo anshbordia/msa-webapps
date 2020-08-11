@@ -1,7 +1,7 @@
 # msa-webapps
 MSA Project for webapps bootcamp using power apps.
 
-Classify if the apples in a photo are fresh or rotten
+Classify if the apples in a photo are fresh or rotten.
 
 Uses AI builder from power apps.
 
